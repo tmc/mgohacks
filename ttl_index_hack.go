@@ -1,3 +1,5 @@
+// contents lightly modified from github.com/go-mgo/mgo@3569c88678d88179dcbd68d02ab081cbca3cd4d0
+
 package mgohacks
 
 import (
